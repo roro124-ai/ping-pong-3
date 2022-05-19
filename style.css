@@ -1,0 +1,21 @@
+body
+{
+
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.instructions{
+    float:right;
+}
+#canvas{
+    border-style: ridge;
+    border-color: aqua;
+}
+.footer{
+    float: bottom;
+    width: 100%;
+color: black;
+background-color: aqua;
+}
